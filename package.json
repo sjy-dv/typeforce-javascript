@@ -1,0 +1,12 @@
+{
+  "name": "i-hate-typescript",
+  "version": "1.0.2",
+  "description": "When JavaScript developers who do not prefer TypeScript need type coercion",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "kn2414e@gmail.com",
+  "github" : "https://github.com/sjy-dv",
+  "license": "ISC"
+}
