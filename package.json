@@ -1,6 +1,6 @@
 {
   "name": "i-hate-typescript",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "description": "When JavaScript developers who do not prefer TypeScript need type coercion",
   "main": "index.js",
   "scripts": {

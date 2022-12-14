@@ -13,7 +13,4 @@ function UnMarshal(baseEntity, inputEntity) {
   return undefined;
 }
 
-console.log(ForceType({ a: 0.1 }, { a: 1 }));
-console.log(ForceType({ a: 2 }, { a: 1 }));
-console.log(ForceType({ a: "" }, { a: 1 }));
-console.log(ForceType({ a: true }, { a: 1 }));
+module.exports = { ForceType };
