@@ -1,11 +1,13 @@
+## Intro
+
+**Keep in mind that this is not a perfect TypeScript replacement.** I didn't really feel the need for TypeScript except when checking the promised type. If there is a developer like me who is comfortable with JavaScript, if he understands the project and uses it, he will be able to receive proper help and stable typing. The above project also needs to be specified like an interface, but it is more convenient and easier to consider the configuration part in additional typescript.
+
 ## Installation
 
 ```bash
 // with npm
 npm i i-hate-typescript
 ```
-
-##EXPLAIN
 
 ## Sample Code
 
@@ -30,7 +32,7 @@ console.log(ForceType({ a: true }, { a: 1 }));
 // { a: undefined }
 ```
 
-### You can use Server Code
+### You can also use it usefully in your server code.
 
 ```js
 const express = require("express");
